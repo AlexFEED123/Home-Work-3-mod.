@@ -11,7 +11,7 @@ lisense: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 ---
 ## Содержание
 1. [git clone](./clone)
-2.
+2. [git init](./int)
 3. [git add](./add.md) 
-2. 
+4. [git commit](./commit)
 ---
